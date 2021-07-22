@@ -1,5 +1,5 @@
 /// <reference path="./typings/globals/jquery/index.d.ts" />
-
+alert("This Game works better in Desktop/PC . Proceed ?");
 var gameColors=["red","blue","yellow","green"];
 var userPattern=[];
 var gamePattern=[];
